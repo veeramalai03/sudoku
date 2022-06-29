@@ -1,4 +1,6 @@
-# sudoku
+## Ex no: 6
+## Date: 7/6/2022
+# <p align="center">Sudoku Solver
 ## Aim:
 To develop a code to solve a given sudoku puzzle.
 
